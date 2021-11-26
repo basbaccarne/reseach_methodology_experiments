@@ -49,7 +49,7 @@ void draw() {
   ellipse(600, 400, max_value, max_value);
   ellipse(600, 400, num, num);
 
-  // // dataviz: text
+  // dataviz: text
   String now = "current reading:       " + nf(serialNum) +  " Pascal";
   String max = "maximum reading: " + nf(maxVal) +  " Pascal";
   fill(30, 100, 200);
