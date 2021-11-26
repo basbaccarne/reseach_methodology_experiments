@@ -8,7 +8,7 @@ The goal of the assignment is to develop an experimental design, execute this, a
 - [ ] what is your sample size?
 
 ### 2. Develop floatable artefacts
-- [ ] design patterns (include a place for the tube!) (inspiration: see starter section on the Therms-Up Github)
+- [ ] design patterns (include a place for the tube!) (inspiration: see [starter section on the Therms-Up Github](https://github.com/mallcong/Therms-Up/tree/master/Starter))
 - [ ] test the template on a sample
 - [ ] how? See [creating floatables](#creating-floatables)
 - [ ] produce the required amount of floatables according to you research design
@@ -20,6 +20,7 @@ The goal of the assignment is to develop an experimental design, execute this, a
 - [ ] Open Processing and open (or copy/paste) the **Processing script**
 - [ ] Make sure you close your Serial Plotter
 - [ ] Run the Processing script and resolve potential errors
+- [ ] The default goal is to compare maximum pressure until the floatable leaks or pops
 
 ### 4. Run the tests
 - [ ] The default measurement is to record maximum inflation pressure, but feel free to deviate from the default.
