@@ -10,7 +10,7 @@ The goal of the assignment is to develop an experimental design, execute this, a
 ### 2. Develop floatable artefacts
 - [ ] design patterns (include a place for the tube!) (inspiration: see starter section on the Therms-Up Github)
 - [ ] test the template on a sample
-- [ ] how? See [creating floatables](creating-floatables)
+- [ ] how? See [creating floatables](#creating-floatables)
 - [ ] produce the required amount of floatables according to you research design
 
 ### 3. Build the test set-up
