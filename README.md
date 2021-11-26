@@ -10,7 +10,7 @@ The goal of the assignment is to develop an experimental design, execute this, a
 ### 2. Develop floatable artefacts
 - [ ] design patterns (include a place for the tube!) (inspiration: see starter section on the Therms-Up Github)
 - [ ] test the template on a sample
-- [ ] how? See **creating floatables**
+- [ ] how? See [creating floatables](creating-floatables)
 - [ ] produce the required amount of floatables according to you research design
 
 ### 3. Build the test set-up
@@ -39,4 +39,4 @@ We won't be using CNC techniques for this assignment. Instead, we will craft the
 * For the sample: first draw your shapes with a marker on the aluminium foil. Then follow the contours with a soldering iron.  
 * For mass production: first produce your shapes by lasercutting a piece of wood.  
   
-[insert image]
+![floatables in action](/floatables.jpg)
