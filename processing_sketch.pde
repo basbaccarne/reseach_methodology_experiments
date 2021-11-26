@@ -1,8 +1,8 @@
 // Open this file (or copy/paste) in processing to visualize the data from the serial monitor
 // Make sure your Arduino is connected & the COM port is not being used by another application
 // Check COM port settings if you encounter issues
-// libraries
 
+// libraries
 import processing.serial.*;
 
 // config
