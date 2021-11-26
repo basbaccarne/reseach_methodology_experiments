@@ -46,8 +46,8 @@ void draw() {
   // dataviz: balloons
   stroke(30, 100, 200);
   fill(30, 100, 200, 100);
-  ellipse(600, 400, max_value, max_value);
-  ellipse(600, 400, num, num);
+  ellipse(600, 400, maxVal, maxVal);
+  ellipse(600, 400, serialNum, serialNum);
 
   // dataviz: text
   String now = "current reading:       " + nf(serialNum) +  " Pascal";
