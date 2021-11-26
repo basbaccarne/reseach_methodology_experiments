@@ -14,10 +14,10 @@ The goal of the assignment is to develop an experimental design, execute this, a
 - [ ] produce the required amount of floatables according to you research design
 
 ### 3. Build the test set-up
-- [ ] Set-up your Arduino Nano and the rest of the hardware following **this schematic**
-- [ ] Plug in you Arduino and upload **this sketch**
+- [ ] Set-up your Arduino Nano and the rest of the hardware following [this schematic](schematic.png)
+- [ ] Plug in you Arduino and upload [this sketch](arduino_sketch.ino)
 - [ ] Check if pressure is detected using the Serial Monitor in the Arduino IDE (Tools > Serial Monitor)
-- [ ] Open Processing and open (or copy/paste) the **Processing script**
+- [ ] Open Processing and open (or copy/paste) the [Processing script](processing_sketch.pde)
 - [ ] Make sure you close your Serial Monitor in the Arduino IDE
 - [ ] Run the Processing script and resolve potential errors
 - [ ] The default goal is to compare maximum pressure until the floatable leaks or pops
