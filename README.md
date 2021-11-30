@@ -51,3 +51,7 @@ We won't be using CNC techniques for this assignment. Instead, we will craft the
 * Plug in you Arduino and upload [this sketch](arduino_sketch.ino)
 - Check if pressure is detected using the Serial Monitor in the Arduino IDE (Tools > Serial Monitor)
 - Open Processing and open (or copy/paste) the [Processing script](processing_sketch.pde)
+
+![set-up in action](/set-up_img.jpg)  
+  
+![processing interface in action](/PSI_processing.gif)
