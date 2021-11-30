@@ -14,7 +14,7 @@ The goal of the assignment is to develop an experimental design, execute this, a
 - [ ] produce the required amount of inflatables according to you research design
 
 ### 3. Build the test set-up
-- [ ] Set-up your Arduino Nano and the rest of the hardware following [this schematic](schematic.png)
+- [ ] Set-up your Arduino Nano and the rest of the hardware following [this schematic](set-up.png)
 - [ ] Plug in you Arduino and upload [this sketch](arduino_sketch.ino)
 - [ ] Check if pressure is detected using the Serial Monitor in the Arduino IDE (Tools > Serial Monitor)
 - [ ] Open Processing and open (or copy/paste) the [Processing script](processing_sketch.pde)
@@ -48,3 +48,6 @@ We won't be using CNC techniques for this assignment. Instead, we will craft the
 * Wire-up the Arduino & connect the tubing (slide a wide tube over the small one to connect the tubing to the sensor)
 * Use electrical tape and/or hot glue to seal connections
 * Open the Arduino IDE and go to Sketch > Include Library > Manage Libaries. Install the Adafruit MPRLS library
+* Plug in you Arduino and upload [this sketch](arduino_sketch.ino)
+- Check if pressure is detected using the Serial Monitor in the Arduino IDE (Tools > Serial Monitor)
+- Open Processing and open (or copy/paste) the [Processing script](processing_sketch.pde)
