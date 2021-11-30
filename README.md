@@ -41,3 +41,10 @@ We won't be using CNC techniques for this assignment. Instead, we will craft the
 * For mass production: first produce your shapes by lasercutting a piece of wood.  
   
 ![inflatables in action](/floatables.jpg)
+
+## The test set-up
+* The test set-up uses an Adafruit MPRLS sensor (measures 0 to 25 PSI, average pressure on earth = 14.5 PSI)
+* This sensor uses I2C (data output) and can be connected using 5V, GND and the SCL & SDA pins
+* Wire-up the Arduino & connect the tubing (slide a wide tube over the small one to connect the tubing to the sensor)
+* Use electrical tape and/or hot glue to seal connections
+* Open the Arduino IDE and go to Sketch > Include Library > Manage Libaries. Install the Adafruit MPRLS library
