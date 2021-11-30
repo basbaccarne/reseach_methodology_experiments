@@ -1,7 +1,3 @@
-// Open this file (or copy/paste) in processing to visualize the data from the serial monitor
-// Make sure your Arduino is connected & the COM port is not being used by another application
-// Check COM port settings if you encounter issues
-
 // libraries
 import processing.serial.*;
 
@@ -46,12 +42,12 @@ void draw() {
   // dataviz: balloons
   stroke(30, 100, 200);
   fill(30, 100, 200, 100);
-  ellipse(600, 400, maxVal, maxVal);
-  ellipse(600, 400, serialNum, serialNum);
+  ellipse(600, 400, maxVal*30, maxVal*30);
+  ellipse(600, 400, serialNum*30, serialNum*30);
 
-  // dataviz: text
-  String now = "current reading:       " + nf(serialNum) +  " Pascal";
-  String max = "maximum reading: " + nf(maxVal) +  " Pascal";
+  // // dataviz: text
+  String now = "current reading:       " + nf(serialNum) +  " PSI";
+  String max = "maximum reading: " + nf(maxVal) +  " PSI";
   fill(30, 100, 200);
   textSize(20);
   text(now, 20, 40);
