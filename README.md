@@ -32,7 +32,7 @@ The goal of the assignment is to develop an experimental design, execute this, a
 - [ ] Make an appropriate data visualization
 - [ ] Bundle everything a slide-based report
 
-## Creating floatables
+## Creating inflatables
 We won't be using CNC techniques for this assignment. Instead, we will craft the inflatables using a **soldering iron**. For best results, take a look at the optimal temperatures in the paper. It is advised to put a **cardboard underneath** your inflatables and **aluminium foil on top** of it.  
   
  Be creative! Combine different materials, try crazy shapes, think of inspiring applications, ...
