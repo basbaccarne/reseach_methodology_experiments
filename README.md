@@ -3,6 +3,7 @@ This repo contains all the information for the assignment, which is inspired on 
 The goal of the assignment is to develop an experimental design, execute this, analyse this, and interpret this in a meaningfull way (defenitely take a look at the Evaluation_Result section of the Therms-Up GitHub). 
 
 ### 1. Develop an experimental design
+- [ ] what would be meaningfull research? (think about possible applications)
 - [ ] which are your dependent and independent variables (shapes, materials, combinations, n° seals, ...)?
 - [ ] what are your hypotheses?
 - [ ] what is your required sample size?
