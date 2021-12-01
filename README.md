@@ -3,7 +3,7 @@ This repo contains all the information for the assignment, which is inspired on 
 The goal of the assignment is to develop an experimental design, execute this, analyse this, and interpret this in a meaningfull way (defenitely take a look at the Evaluation_Result section of the Therms-Up GitHub). 
 
 ### 1. Develop an experimental design
-- [ ] what would be meaningfull research? (think about possible applications)
+- [ ] what would be meaningfull experimental research? (think about possible applications)
 - [ ] which are your dependent and independent variables (shapes, materials, combinations, n° seals, ...)?
 - [ ] what are your hypotheses?
 - [ ] what is your required sample size?
@@ -31,7 +31,8 @@ The goal of the assignment is to develop an experimental design, execute this, a
 - [ ] Run the appropriate analysis
 - [ ] Check if the hypothesis are confirmed
 - [ ] Make an appropriate data visualization
-- [ ] Bundle everything a slide-based report
+- [ ] How can you interpret this data? Make the insights actionable & drive design choices.
+- [ ] Bundle everything a slide-based report (also reflect on the method)
 
 ## Creating inflatables
 We won't be using CNC techniques for this assignment. Instead, we will craft the inflatables using a **soldering iron**. For best results, take a look at the optimal temperatures in the paper. It is advised to put a **cardboard underneath** your inflatables and **aluminium foil on top** of it.  
