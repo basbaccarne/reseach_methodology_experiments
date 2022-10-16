@@ -25,7 +25,7 @@ The goal of the assignment is to develop an experimental design, execute this, a
 
 ### 4. Run the tests
 - [ ] The default measurement is to record maximum inflation pressure, but feel free to deviate from the default.
-- [ ] Store the data in SPSS
+- [ ] Store the data in a Google Sheet and find a way to import these data in R directly from Google Sheets.
 
 ### 5. Do the analysis, interpret and report
 - [ ] Run the appropriate analysis
@@ -57,3 +57,9 @@ We won't be using CNC techniques for this assignment. Instead, we will craft the
 ![set-up in action](/set-up_img.jpg)  
   
 ![processing interface in action](/PSI_processing.gif)
+
+## Extra challenge 1: CNC inflatables
+For those who are up for an extra challenge: Can you produce the inflatables similar to the initial therms-up study (using G-code)? (Hint: contact Yannick if you're in doubt)
+
+## Extra challenge 2: Arduino-pressure build-up
+For those who are up for an extra challenge: Can you build a set-up with a stepper motor and a 3D printed syringe holder to build-up the air pressure mechanically? (Hint: search for Arduino Syringe Pump online)
